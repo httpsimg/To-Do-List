@@ -22,5 +22,4 @@ Projeyi bilgisayarınıza klonlayarak veya indirdikten sonra, terminal veya komu
 
 1. İlk olarak, projeyi klonlayın:
    ```bash
-   git clone https://github.com/kullanıcı_adı/python-todo-list.git
-   cd python-tod
+  git clone https://github.com/httpsimg/To-Do-List.git
