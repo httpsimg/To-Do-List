@@ -21,5 +21,4 @@ Projeyi bilgisayarınıza klonlayarak veya indirdikten sonra, terminal veya komu
 ### Projeyi Çalıştırmak
 
 1. İlk olarak, projeyi klonlayın:
-   ```bash
-  git clone https://github.com/httpsimg/To-Do-List.git
+2. https://github.com/httpsimg/To-Do-List.git
